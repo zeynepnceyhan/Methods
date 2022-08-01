@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\Methods1\Methods1\bin\Debug\net6.0\Methods1.exe
+C:\Users\zeynep\source\repos\Methods1\Methods1\bin\Debug\net6.0\Methods1.deps.json
+C:\Users\zeynep\source\repos\Methods1\Methods1\bin\Debug\net6.0\Methods1.runtimeconfig.json
+C:\Users\zeynep\source\repos\Methods1\Methods1\bin\Debug\net6.0\Methods1.dll
+C:\Users\zeynep\source\repos\Methods1\Methods1\bin\Debug\net6.0\Methods1.pdb
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.dll
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\refint\Methods1.dll
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.pdb
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\Methods1.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\Methods1\Methods1\obj\Debug\net6.0\ref\Methods1.dll
